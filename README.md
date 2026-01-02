@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I'm Henry Adepegba 👋
 
-<!--
-**henrywinnerman/henrywinnerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Writer | Documentation Specialist
 
-Here are some ideas to get you started:
+I create clear, user-friendly documentation that helps developers and users succeed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+- API Documentation (REST, OpenAPI/Swagger)
+- User Guides & Tutorials
+- Developer Onboarding Docs
+- Markdown, Git, Docs-as-Code workflows
+
+📫 Connect
+- Twitter: [@HenryAdepegba](https://twitter.com/HenryAdepegba)
+- Location: Nigeria
+
+---
+*Open to technical writing opportunities.*
+
