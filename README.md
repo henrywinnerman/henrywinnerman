@@ -26,8 +26,8 @@ With a background in web development and research, I bridge the gap between comp
 | 📗 User Guide | [Postman for API Testing](https://github.com/henrywinnerman/technical-writing-portfolio/blob/main/user-guides/postman-api-testing-guide.md) | Beginner-friendly testing guide |
 | 📕 Tutorial | [React Weather App](https://github.com/henrywinnerman/technical-writing-portfolio/blob/main/tutorials/react-weather-app-tutorial.md) | Build a weather app from scratch |
 
-My articles on Freecodecamp - https://www.freecodecamp.org/news/author/henrywinnerman/
-My articles on Hashnode - https://henrywinnerman.hashnode.dev/
+- My articles on Freecodecamp - https://www.freecodecamp.org/news/author/henrywinnerman/
+- My articles on Hashnode - https://henrywinnerman.hashnode.dev/
 
 **[View Full Portfolio →](https://github.com/henrywinnerman/technical-writing-portfolio)**
 
