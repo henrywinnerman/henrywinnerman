@@ -21,7 +21,7 @@ With a background in web development and research, I bridge the gap between comp
 
 | Type | Sample | Description |
 |------|--------|-------------|
-| 🔌 Integration | [Paystack + Laravel](https://github.com/henrywinnerman/technical-writing-portfolio/blob/main/integration-guides/paystack-laravel-integration-guide.md) | Complete payment integration guide |
+| 🔌 Integration | [Paystack + Laravel](https://github.com/henrywinnerman/technical-writing-portfolio/blob/main/integration-guides/paystack-laravel-integration.md) | Complete payment integration guide |
 | 📘 API Docs | [Flutterwave Virtual Cards](https://github.com/henrywinnerman/technical-writing-portfolio/blob/main/api-documentation/flutterwave-virtual-cards-api.md) | REST API reference with code examples |
 | 📗 User Guide | [Postman for API Testing](https://github.com/henrywinnerman/technical-writing-portfolio/blob/main/user-guides/postman-api-testing-guide.md) | Beginner-friendly testing guide |
 | 📕 Tutorial | [React Weather App](https://github.com/henrywinnerman/technical-writing-portfolio/blob/main/tutorials/react-weather-app-tutorial.md) | Build a weather app from scratch |
