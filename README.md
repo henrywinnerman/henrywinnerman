@@ -14,8 +14,10 @@ With a background in web development and research, I bridge the gap between comp
 - **Integration Guides** — Step-by-step implementation guides with code samples
 - **User Guides** — Task-oriented documentation for developers and end-users
 - **Tutorials** — Hands-on projects that teach through building
+- **Technical Articles** — In-depth explanations of complex topics
 
 ---
+
 
 ### 📁 Featured Writing Samples
 
@@ -25,6 +27,8 @@ With a background in web development and research, I bridge the gap between comp
 | 📘 API Docs | [Flutterwave Virtual Cards](https://github.com/henrywinnerman/technical-writing-portfolio/blob/main/api-documentation/flutterwave-virtual-cards-api.md) | REST API reference with code examples |
 | 📗 User Guide | [Postman for API Testing](https://github.com/henrywinnerman/technical-writing-portfolio/blob/main/user-guides/postman-api-testing-guide.md) | Beginner-friendly testing guide |
 | 📕 Tutorial | [React Weather App](https://github.com/henrywinnerman/technical-writing-portfolio/blob/main/tutorials/react-weather-app-tutorial.md) | Build a weather app from scratch |
+| 📰 Article | [Web Application Security](https://github.com/henrywinnerman/technical-writing-portfolio/blob/main/articles/web-application-security-tutorial.md) | Cybersecurity best practices |
+| 🤖 Article | [AI Automation Guide](https://github.com/henrywinnerman/technical-writing-portfolio/blob/main/articles/ai-automation-business-guide.md) | AI for business workflows |
 
 - My articles on Freecodecamp - (https://www.freecodecamp.org/news/author/henrywinnerman/)
   
